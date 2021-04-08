@@ -33,33 +33,10 @@ Here are some ideas to get you started:
 
 # Repo Info
 
-<table>
-	<tr>
-		<th scope="col" />
-		<th scope="col"> Repo </th>
-	</tr>
-	<tr>
-		<th scope="row"> Linux Distro Picker </th>
-		<td>
-			<a href="https://github.com/anuraghazra/github-readme-stats">
-				<img
-					src="https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Linux-Distro-Picker&theme=onedark&show_icons=true&show_owner=true"
-					alt="Readme Card"
-				/>
-				<div>
-					<img
-						src="https://img.shields.io/github/stars/Charlie-Sumorok/Visual-Web?style=social"
-						alt="Stars"
-					/>
-					<img
-						src="https://img.shields.io/github/forks/Charlie-Sumorok/Visual-Web?style=social"
-						alt="Forks"
-					/>
-				</div>
-			</a>
-		</td>
-	</tr>
-</table>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Linux-Distro-Picker&theme=onedark&show_icons=true&show_owner=true)](https://Charlie-Sumorok/Linux-Distro-Picker) \
+[![Stars](https://img.shields.io/github/stars/Charlie-Sumorok/Visual-Web?style=social)](https://Charlie-Sumorok/Linux-Distro-Picker) \
+[![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/Visual-Web?style=social)](https://Charlie-Sumorok/Linux-Distro-Picker) \
+[]()
 
 # Most Used Languages
 

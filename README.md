@@ -68,6 +68,20 @@ Here are some ideas to get you started:
 
 ---
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Calcs&theme=onedark&show_icons=truecover-container)](https://github.com/Charlie-Sumorok/Calcs) \
+[![Stars](https://img.shields.io/github/stars/Charlie-Sumorok/Calcs?style=social)](https://github.com/Charlie-Sumorok/Calcs) \
+[![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/Calcs?style=social)](https://github.com/Charlie-Sumorok/Calcs) \
+[]()
+
+---
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=react-desktop&theme=onedark&show_icons=truecover-container)](https://github.com/Charlie-Sumorok/react-desktop) \
+[![Stars](https://img.shields.io/github/stars/Charlie-Sumorok/react-desktop?style=social)](https://github.com/Charlie-Sumorok/react-desktop) \
+[![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/react-desktop?style=social)](https://github.com/Charlie-Sumorok/react-desktop) \
+[]()
+
+---
+
 # Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie-Sumorok&theme=onedark&show_icons=true)][github-readme-stats-repo] \

@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 	</tr>
 </table>
 
+# Most Used Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie-Sumorok&theme=onedark&show_icons=true)][github-readme-stats-repo] \
 []()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie-Sumorok&theme=onedark&show_icons=true&layout=compact)][github-readme-stats-repo] \

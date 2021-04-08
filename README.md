@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 [![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/Visual-Web?style=social)](https://Charlie-Sumorok/Linux-Distro-Picker) \
 []()
 
-Made using [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
 # Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie-Sumorok&theme=onedark&show_icons=true)][github-readme-stats-repo] \
 []()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie-Sumorok&theme=onedark&show_icons=true&layout=compact)][github-readme-stats-repo] \
 []()
+
+Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 [github-readme-stats-repo]: https://github.com/anuraghazra/github-readme-stats
 

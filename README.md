@@ -33,10 +33,40 @@ Here are some ideas to get you started:
 
 # Repo Info
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Linux-Distro-Picker&theme=onedark&show_icons=true&show_owner=true)](https://Charlie-Sumorok/Linux-Distro-Picker) \
-[![Stars](https://img.shields.io/github/stars/Charlie-Sumorok/Visual-Web?style=social)](https://Charlie-Sumorok/Linux-Distro-Picker) \
-[![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/Visual-Web?style=social)](https://Charlie-Sumorok/Linux-Distro-Picker) \
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Linux-Distro-Picker&theme=onedark&show_icons=truecover-container)](https://Charlie-Sumorok/Linux-Distro-Picker) \
+[![Stars](https://img.shields.io/github/stars/Charlie-Sumorok/Linux-Distro-Picker?style=social)](https://Charlie-Sumorok/Linux-Distro-Picker) \
+[![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/Linux-Distro-Picker?style=social)](https://Charlie-Sumorok/Linux-Distro-Picker) \
 []()
+
+---
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=PMM&theme=onedark&show_icons=truecover-container)](https://Charlie-Sumorok/PMM) \
+[![Stars](https://img.shields.io/github/stars/Charlie-Sumorok/PMM?style=social)](https://Charlie-Sumorok/PMM) \
+[![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/PMM?style=social)](https://Charlie-Sumorok/PMM) \
+[]()
+
+---
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Visual-Web&theme=onedark&show_icons=truecover-container)](https://Charlie-Sumorok/Visual-Web) \
+[![Stars](https://img.shields.io/github/stars/Charlie-Sumorok/Visual-Web?style=social)](https://Charlie-Sumorok/Visual-Web) \
+[![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/Visual-Web?style=social)](https://Charlie-Sumorok/Visual-Web) \
+[]()
+
+---
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Visual-Web-Electron&theme=onedark&show_icons=truecover-container)](https://Charlie-Sumorok/Visual-Web-Electron) \
+[![Stars](https://img.shields.io/github/stars/Charlie-Sumorok/Visual-Web-Electron?style=social)](https://Charlie-Sumorok/Visual-Web-Electron) \
+[![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/Visual-Web-Electron?style=social)](https://Charlie-Sumorok/Visual-Web-Electron) \
+[]()
+
+---
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=pop-under-deobfuscation&theme=onedark&show_icons=truecover-container)](https://Charlie-Sumorok/pop-under-deobfuscation) \
+[![Stars](https://img.shields.io/github/stars/Charlie-Sumorok/pop-under-deobfuscation?style=social)](https://Charlie-Sumorok/pop-under-deobfuscation) \
+[![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/pop-under-deobfuscation?style=social)](https://Charlie-Sumorok/pop-under-deobfuscation) \
+[]()
+
+---
 
 # Most Used Languages
 

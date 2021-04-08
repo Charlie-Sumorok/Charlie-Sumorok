@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on deobfuscating the popunderjs.com demo
+- 🔭 I’m currently working on deobfuscating the [popunderjs.com](https://popunderjs.com) demo
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -43,18 +43,16 @@ Here are some ideas to get you started:
 					src="https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Linux-Distro-Picker&theme=onedark&show_icons=true&show_owner=true"
 					alt="Readme Card"
 				/>
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/anuraghazra/github-readme-stats" style="display: flex;flex-direction: column">
-				<img
-					src="https://img.shields.io/github/stars/Charlie-Sumorok/Visual-Web?style=social"
-					alt="Stars"
-				/>
-				<img
-					src="https://img.shields.io/github/forks/Charlie-Sumorok/Visual-Web?style=social"
-					alt="Forks"
-				/>
+				<div style="transform: translate(200px, -40px);">
+					<img
+						src="https://img.shields.io/github/stars/Charlie-Sumorok/Visual-Web?style=social"
+						alt="Stars"
+					/>
+					<img
+						src="https://img.shields.io/github/forks/Charlie-Sumorok/Visual-Web?style=social"
+						alt="Forks"
+					/>
+				</div>
 			</a>
 		</td>
 	</tr>

@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 	<tr>
 		<th scope="col" />
 		<th scope="col"> Repo </th>
-		<th scope="col"> Stats</th>
 	</tr>
 	<tr>
 		<th scope="row"> Linux Distro Picker </th>
@@ -43,7 +42,7 @@ Here are some ideas to get you started:
 					src="https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Linux-Distro-Picker&theme=onedark&show_icons=true&show_owner=true"
 					alt="Readme Card"
 				/>
-				<div style="transform: translate(200px, -40px);">
+				<div>
 					<img
 						src="https://img.shields.io/github/stars/Charlie-Sumorok/Visual-Web?style=social"
 						alt="Stars"

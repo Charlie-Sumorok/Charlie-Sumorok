@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 # Repo Info
 
-## Linux Distro Picker
+## <!-- Linux Distro Picker -->
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Linux-Distro-Picker&theme=onedark&show_icons=true&show_owner=true)](https://Charlie-Sumorok/Linux-Distro-Picker) \
 [![Stars](https://img.shields.io/github/stars/Charlie-Sumorok/Visual-Web?style=social)](https://Charlie-Sumorok/Linux-Distro-Picker) \

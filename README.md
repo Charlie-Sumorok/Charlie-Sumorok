@@ -21,12 +21,14 @@ Here are some ideas to get you started:
 
 # My Stats
 
-![GitHub Followers](https://img.shields.io/github/followers/Charlie-Sumorok?style=social)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/Charlie-Sumorok?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Charlie-Sumorok?style=social) \
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Charlie-Sumorok&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats) \
 []()
 [![Charlie-Sumorok's github stats](https://github-readme-stats.vercel.app/api?username=Charlie-Sumorok&show_icons=true&theme=onedark)][github-readme-stats-repo] \
+[]()
+
+![GitHub Followers](https://img.shields.io/github/followers/Charlie-Sumorok?style=social) \
+![GitHub Sponsors](https://img.shields.io/github/sponsors/Charlie-Sumorok?style=social) \
+![GitHub User's stars](https://img.shields.io/github/stars/Charlie-Sumorok?style=social) \
 []()
 
 # Repo Info

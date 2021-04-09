@@ -7,10 +7,12 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on deobfuscating the [popunderjs.com](https://popunderjs.com) demo
+
 <!--
 - 🌱 I’m currently learning ...
   -->
 - 👯 I’m looking to collaborate on [my linux distro picker](https://github.com/Charlie-Sumorok/Linux-Distro-Picker)
+
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

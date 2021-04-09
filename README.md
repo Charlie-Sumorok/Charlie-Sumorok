@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ## [Contributers][contributers-site]
 
-[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/Linux-Distro-Picker)](https://github.com/Charlie-Sumorok/Linux-Distro-Picker/graphs/Contributors)
+[![Contributers](https://contrib.rocks/image?repo=Charlie-Sumorok/Linux-Distro-Picker)](https://github.com/Charlie-Sumorok/Linux-Distro-Picker/graphs/Contributors)
 
 ---
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## [Contributers][contributers-site]
 
-[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/PMM)](https://github.com/Charlie-Sumorok/PMM/graphs/Contributors)
+[![Contributers](https://contrib.rocks/image?repo=Charlie-Sumorok/PMM)](https://github.com/Charlie-Sumorok/PMM/graphs/Contributors)
 
 ---
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ## [Contributers][contributers-site]
 
-[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/Visual-Web)](https://github.com/Charlie-Sumorok/Visual-Web/graphs/Contributors)
+[![Contributers](https://contrib.rocks/image?repo=Charlie-Sumorok/Visual-Web)](https://github.com/Charlie-Sumorok/Visual-Web/graphs/Contributors)
 
 ---
 
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 ## [Contributers][contributers-site]
 
-[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/Visual-Web-Electron)](https://github.com/Charlie-Sumorok/Visual-Web-Electron/graphs/Contributors)
+[![Contributers](https://contrib.rocks/image?repo=Charlie-Sumorok/Visual-Web-Electron)](https://github.com/Charlie-Sumorok/Visual-Web-Electron/graphs/Contributors)
 
 ---
 
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 ## [Contributers][contributers-site]
 
-[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/pop-under-deobfuscation)](https://github.com/Charlie-Sumorok/pop-under-deobfuscation/graphs/Contributors)
+[![Contributers](https://contrib.rocks/image?repo=Charlie-Sumorok/pop-under-deobfuscation)](https://github.com/Charlie-Sumorok/pop-under-deobfuscation/graphs/Contributors)
 
 ---
 
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 ## [Contributers][contributers-site]
 
-[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/Calcs)](https://github.com/Charlie-Sumorok/Calcs/graphs/Contributors)
+[![Contributers](https://contrib.rocks/image?repo=Charlie-Sumorok/Calcs)](https://github.com/Charlie-Sumorok/Calcs/graphs/Contributors)
 
 ---
 
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 ## [Contributers][contributers-site]
 
-[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/react-desktop)](https://github.com/Charlie-Sumorok/react-desktop/graphs/Contributors)
+[![Contributers](https://contrib.rocks/image?repo=Charlie-Sumorok/react-desktop)](https://github.com/Charlie-Sumorok/react-desktop/graphs/Contributors)
 
 ---
 
@@ -123,7 +123,7 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 # [Contributers][contributers-site]
 
-[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/Visual-Web)](https://github.com/Charlie-Sumorok/Visual-Web/graphs/Contributors)
+[![Contributers](https://contrib.rocks/image?repo=Charlie-Sumorok/Visual-Web)](https://github.com/Charlie-Sumorok/Visual-Web/graphs/Contributors)
 
 Contibuters images were made with [contributors-img][contributers-site]
 

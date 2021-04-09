@@ -38,12 +38,20 @@ Here are some ideas to get you started:
 [![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/Linux-Distro-Picker?style=social)](https://github.com/Charlie-Sumorok/Linux-Distro-Picker) \
 []()
 
+## [Contributers][contributers-site]
+
+[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/Linux-Distro-Picker)](https://github.com/Charlie-Sumorok/Linux-Distro-Picker/graphs/Contributors)
+
 ---
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=PMM&theme=onedark&show_icons=truecover-container)](https://github.com/Charlie-Sumorok/PMM) \
 [![Stars](https://img.shields.io/github/stars/Charlie-Sumorok/PMM?style=social)](https://github.com/Charlie-Sumorok/PMM) \
 [![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/PMM?style=social)](https://github.com/Charlie-Sumorok/PMM) \
 []()
+
+## [Contributers][contributers-site]
+
+[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/PMM)](https://github.com/Charlie-Sumorok/PMM/graphs/Contributors)
 
 ---
 
@@ -52,12 +60,20 @@ Here are some ideas to get you started:
 [![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/Visual-Web?style=social)](https://github.com/Charlie-Sumorok/Visual-Web) \
 []()
 
+## [Contributers][contributers-site]
+
+[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/Visual-Web)](https://github.com/Charlie-Sumorok/Visual-Web/graphs/Contributors)
+
 ---
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Visual-Web-Electron&theme=onedark&show_icons=truecover-container)](https://github.com/Charlie-Sumorok/Visual-Web-Electron) \
 [![Stars](https://img.shields.io/github/stars/Charlie-Sumorok/Visual-Web-Electron?style=social)](https://github.com/Charlie-Sumorok/Visual-Web-Electron) \
 [![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/Visual-Web-Electron?style=social)](https://github.com/Charlie-Sumorok/Visual-Web-Electron) \
 []()
+
+## [Contributers][contributers-site]
+
+[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/Visual-Web-Electron)](https://github.com/Charlie-Sumorok/Visual-Web-Electron/graphs/Contributors)
 
 ---
 
@@ -66,6 +82,10 @@ Here are some ideas to get you started:
 [![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/pop-under-deobfuscation?style=social)](https://github.com/Charlie-Sumorok/pop-under-deobfuscation) \
 []()
 
+## [Contributers][contributers-site]
+
+[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/pop-under-deobfuscation)](https://github.com/Charlie-Sumorok/pop-under-deobfuscation/graphs/Contributors)
+
 ---
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Calcs&theme=onedark&show_icons=truecover-container)](https://github.com/Charlie-Sumorok/Calcs) \
@@ -73,12 +93,20 @@ Here are some ideas to get you started:
 [![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/Calcs?style=social)](https://github.com/Charlie-Sumorok/Calcs) \
 []()
 
+## [Contributers][contributers-site]
+
+[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/Calcs)](https://github.com/Charlie-Sumorok/Calcs/graphs/Contributors)
+
 ---
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=react-desktop&theme=onedark&show_icons=truecover-container)](https://github.com/Charlie-Sumorok/react-desktop) \
 [![Stars](https://img.shields.io/github/stars/Charlie-Sumorok/react-desktop?style=social)](https://github.com/Charlie-Sumorok/react-desktop) \
 [![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/react-desktop?style=social)](https://github.com/Charlie-Sumorok/react-desktop) \
 []()
+
+## [Contributers][contributers-site]
+
+[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/react-desktop)](https://github.com/Charlie-Sumorok/react-desktop/graphs/Contributors)
 
 ---
 
@@ -95,12 +123,11 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 # [Contributers][contributers-site]
 
-[![Contributers](https://github.com/Contributors-img.web.app/image?repo=Charlie-Sumorok/Visual-Web)][contributers-link]
+[![Contributers](https://Contributors-img.web.app/image?repo=Charlie-Sumorok/Visual-Web)](https://github.com/Charlie-Sumorok/Visual-Web/graphs/Contributors)
 
-Made with [contributors-img][contributers-site]
+Contibuters images were made with [contributors-img][contributers-site]
 
-[contributers-link]: https://github.com/Charlie-Sumorok/Visual-Web/graphs/Contributors
-[contributers-site]: https://github.com/Contrib.rocks
+[contributers-site]: https://Contrib.rocks
 
 # Project Badges
 

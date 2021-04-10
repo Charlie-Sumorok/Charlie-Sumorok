@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 <!--
 - 🌱 I’m currently learning ...
   -->
+
 - 👯 I’m looking to collaborate on [my linux distro picker](https://github.com/Charlie-Sumorok/Linux-Distro-Picker)
 
 <!--
@@ -79,7 +80,7 @@ Here are some ideas to get you started:
 [![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/pop-under-deobfuscation?style=social)](https://github.com/Charlie-Sumorok/pop-under-deobfuscation) \
 []()
 
-## [Contributers](https://github.com/Charlie-Sumorok/pop-under-deobfuscation)/graphs/contributors)
+## [Contributers](https://github.com/Charlie-Sumorok/pop-under-deobfuscation/graphs/contributors)
 
 [![Contributers](https://contrib.rocks/image?repo=Charlie-Sumorok/pop-under-deobfuscation)](https://github.com/Charlie-Sumorok/pop-under-deobfuscation/graphs/Contributors)
 
@@ -89,7 +90,7 @@ Here are some ideas to get you started:
 [![Forks](https://img.shields.io/github/forks/Charlie-Sumorok/Calcs?style=social)](https://github.com/Charlie-Sumorok/Calcs) \
 []()
 
-## [Contributers](https://github.com/Charlie-Sumorok/Calcs)](https://github.com/C/graphs/contributors)
+## [Contributers](https://github.com/Charlie-Sumorok/Calcs/graphs/contributors)
 
 [![Contributers](https://contrib.rocks/image?repo=Charlie-Sumorok/Calcs)](https://github.com/Charlie-Sumorok/Calcs/graphs/Contributors)
 
@@ -105,6 +106,8 @@ Here are some ideas to get you started:
 
 ---
 
+Contibuters images were made with [contributors-img][contributers-site]
+
 # Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie-Sumorok&theme=onedark&show_icons=true)][github-readme-stats-repo] \
@@ -115,9 +118,6 @@ Here are some ideas to get you started:
 Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 [github-readme-stats-repo]: https://github.com/anuraghazra/github-readme-stats
-
-Contibuters images were made with [contributors-img][contributers-site]
-
 [contributers-site]: https://contrib.rocks
 
 # Project Badges

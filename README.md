@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 [![Charlie-Sumorok's github stats](https://github-readme-stats.vercel.app/api?username=Charlie-Sumorok&show_icons=true&theme=onedark)][github-readme-stats-repo] \
 []()
 
+![GitHub User's stars](https://img.shields.io/github/stars/Charlie-Sumorok?style=social) \
 ![GitHub Followers](https://img.shields.io/github/followers/Charlie-Sumorok?style=social) <!-- \ -->
 
 <!-- ![GitHub Sponsors](https://img.shields.io/github/sponsors/Charlie-Sumorok?style=social) \ -->
 
-![GitHub User's stars](https://img.shields.io/github/stars/Charlie-Sumorok?style=social) \
 []()
 
 # Repo Info

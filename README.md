@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 # My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Charlie-Sumorok&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats) \
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Charlie-Sumorok&theme=onedark)](https://git.io/streak-stats) \
 []()
 [![Charlie-Sumorok's github stats](https://github-readme-stats.vercel.app/api?username=Charlie-Sumorok&show_icons=true&theme=onedark)][github-readme-stats-repo] \
 []()

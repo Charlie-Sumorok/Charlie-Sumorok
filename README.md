@@ -126,14 +126,19 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 > Badges for all of my repos
 
+### [pop-under-deobfuscation](https://github.com/Charlie-Sumorok/pop-under-deobfuscation)
+
+[![Send Update Notifications][notify-badge]][notify-link]
+
+[notify-badge]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/notify-updates.yml/badge.svg
+[notify-link]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/notify-updates.yml
+
 ### [Calcs](https://github.com/Charlie-Sumorok/Calcs)
 
 [![Maximum number a person could represent][person-to-number-badge]][person-to-number-link]
 
 [person-to-number-badge]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/human_to_number.yml/badge.svg
 [person-to-number-link]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/human_to_number.yml
-[cli-ci-badge]: https://github.com/Charlie-Sumorok/pmm/actions/workflows/CLI-Ci.yml/badge.svg
-[cli-ci-workflow]: https://github.com/Charlie-Sumorok/pmm/actions/workflows/CLI-Ci.yml
 
 ### [PMM](https://github.com/Charlie-Sumorok/PMM)
 

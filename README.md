@@ -164,6 +164,11 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 ### [Visual Web Electron](https://github.com/Charlie-Sumorok/Visual-Web-Electron)
 
+[![CodeQL][CodeQl-badge]][CodeQL-link]
+
+[CodeQl-badge]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/codeql-analysis.yml/badge.svg
+[CodeQL-link]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/codeql-analysis.yml
+
 [![Electron-Ci][electron-ci-badge]][electron-ci-workflow] \
 [![Tools-Ci][tools-ci-badge]][tools-ci-link] \
 []()

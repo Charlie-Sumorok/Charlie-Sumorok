@@ -147,6 +147,11 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 ### [PMM](https://github.com/Charlie-Sumorok/PMM)
 
+[![CodeQL][CodeQl-badge]][CodeQl-link]
+
+[CodeQl-badge]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/codeql-analysis.yml/badge.svg
+[CodeQl-link]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/codeql-analysis.yml
+
 [![App-CI][app-ci-badge]][app-ci-workflow] \
 [![CLI-CI][cli-ci-badge]][cli-ci-workflow] \
 []()

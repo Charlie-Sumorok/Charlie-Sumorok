@@ -166,10 +166,10 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 [![CLI-CI][cli-ci-badge]][cli-ci-workflow] \
 []()
 
-[app-ci-badge]: https://github.com/Charlie-Sumorok/pmm/actions/workflows/App-Ci.yml/badge.svg
-[app-ci-workflow]: https://github.com/Charlie-Sumorok/pmm/actions/workflows/App-Ci.yml
-[cli-ci-badge]: https://github.com/Charlie-Sumorok/pmm/actions/workflows/CLI-Ci.yml/badge.svg
-[cli-ci-workflow]: https://github.com/Charlie-Sumorok/pmm/actions/workflows/CLI-Ci.yml
+[app-ci-badge]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/App-Ci.yml/badge.svg
+[app-ci-workflow]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/App-Ci.yml
+[cli-ci-badge]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/CLI-Ci.yml/badge.svg
+[cli-ci-workflow]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/CLI-Ci.yml
 
 ## [Visual Web](https://github.com/Charlie-Sumorok/Visual-Web)
 

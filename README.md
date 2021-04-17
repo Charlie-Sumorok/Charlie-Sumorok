@@ -135,10 +135,15 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 ### [Calcs](https://github.com/Charlie-Sumorok/Calcs)
 
-[![Maximum number a person could represent][person-to-number-badge]][person-to-number-link]
+[![Maximum number a person could represent][Person-To-Number-Badge]][Person-To-Number-Link]
 
-[person-to-number-badge]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/human_to_number.yml/badge.svg
-[person-to-number-link]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/human_to_number.yml
+[Person-To-Number-Badge]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/human_to_number.yml/badge.svg
+[Person-To-Number-Link]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/human_to_number.yml
+
+[![CodeQL][CodeQL-badge]][CodeQL-link]
+
+[CodeQL-badge]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/codeql-analysis.yml/badge.svg
+[CodeQL-link]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/codeql-analysis.yml
 
 ### [PMM](https://github.com/Charlie-Sumorok/PMM)
 

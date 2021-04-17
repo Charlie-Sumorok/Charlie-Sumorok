@@ -209,7 +209,7 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 ## [React Desktop](https://github.com/Charlie-Sumorok/react-desktop)
 
-[![CodeQL][CodeQL-badge]][CodeQL-link]
+[![CodeQL][react-desktop-CodeQL-badge]][react-desktop-CodeQL-link]
 
-[CodeQL-badge]: https://github.com/Charlie-Sumorok/react-desktop/actions/workflows/codeql-analysis.yml/badge.svg
-[CodeQL-link]: https://github.com/Charlie-Sumorok/react-desktop/actions/workflows/codeql-analysis.yml
+[react-desktop-CodeQL-badge]: https://github.com/Charlie-Sumorok/react-desktop/actions/workflows/codeql-analysis.yml/badge.svg
+[react-desktop-CodeQL-link]: https://github.com/Charlie-Sumorok/react-desktop/actions/workflows/codeql-analysis.yml

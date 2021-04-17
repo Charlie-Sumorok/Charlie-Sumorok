@@ -172,7 +172,7 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 [linux-distro-picker-ci-badge]: https://github.com/Charlie-Sumorok/Linux-Distro-Picker/actions/workflows/Ci.yml/badge.svg
 [linux-distro-picker-ci-workflow]: https://github.com/Charlie-Sumorok/Linux-Distro-Picker/actions/workflows/Ci.yml
 
-# [React Desktop](https://github.com/Charlie-Sumorok/react-desktop)
+## [React Desktop](https://github.com/Charlie-Sumorok/react-desktop)
 
 [![CodeQL][CodeQL-badge]][CodeQL-link]
 

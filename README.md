@@ -128,10 +128,10 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 ### [pop-under-deobfuscation](https://github.com/Charlie-Sumorok/pop-under-deobfuscation)
 
-[![CodeQL][CodeQL-badge]][CodeQL-workflow]
+[![CodeQL][pop-under-deobfuscation-CodeQL-badge]][pop-under-deobfuscation-CodeQL-workflow]
 
-[CodeQL-badge]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/codeql-analysis.yml/badge.svg
-[CodeQL-workflow]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/codeql-analysis.yml
+[pop-under-deobfuscation-CodeQL-badge]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/codeql-analysis.yml/badge.svg
+[pop-under-deobfuscation-CodeQL-workflow]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/codeql-analysis.yml
 
 [![Add Member][Add-Member-badge]][Add-Member-workflow]
 
@@ -145,10 +145,10 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 ### [Calcs](https://github.com/Charlie-Sumorok/Calcs)
 
-[![CodeQL][CodeQL-badge]][CodeQL-link]
+[![CodeQL][Calcs-CodeQL-badge]][Calcs-CodeQL-link]
 
-[CodeQL-badge]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/codeql-analysis.yml/badge.svg
-[CodeQL-link]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/codeql-analysis.yml
+[Calcs-CodeQL-badge]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/codeql-analysis.yml/badge.svg
+[Calcs-CodeQL-link]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/codeql-analysis.yml
 
 [![Maximum number a person could represent][Person-To-Number-Badge]][Person-To-Number-Link]
 
@@ -157,10 +157,10 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 ### [PMM](https://github.com/Charlie-Sumorok/PMM)
 
-[![CodeQL][CodeQl-badge]][CodeQl-link]
+[![CodeQL][PMM-CodeQl-badge]][PMM-CodeQl-link]
 
-[CodeQl-badge]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/codeql-analysis.yml/badge.svg
-[CodeQl-link]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/codeql-analysis.yml
+[PMM-CodeQl-badge]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/codeql-analysis.yml/badge.svg
+[PMM-CodeQl-link]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/codeql-analysis.yml
 
 [![App-CI][app-ci-badge]][app-ci-workflow] \
 [![CLI-CI][cli-ci-badge]][cli-ci-workflow] \
@@ -173,17 +173,17 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 ## [Visual Web](https://github.com/Charlie-Sumorok/Visual-Web)
 
-[![CodeQL][CodeQl-badge]][CodeQl-link]
+[![CodeQL][Visual-Web-CodeQl-badge]][Visual-Web-CodeQl-link]
 
-[CodeQl-badge]: https://github.com/Charlie-Sumorok/Visual-Web/actions/workflows/codeql-analysis.yml/badge.svg
-[CodeQl-link]: https://github.com/Charlie-Sumorok/Visual-Web/actions/workflows/codeql-analysis.yml
+[Visual-Web-CodeQl-badge]: https://github.com/Charlie-Sumorok/Visual-Web/actions/workflows/codeql-analysis.yml/badge.svg
+[Visual-Web-CodeQl-link]: https://github.com/Charlie-Sumorok/Visual-Web/actions/workflows/codeql-analysis.yml
 
 ### [Visual Web Electron](https://github.com/Charlie-Sumorok/Visual-Web-Electron)
 
-[![CodeQL][CodeQl-badge]][CodeQL-link]
+[![CodeQL][Visual-Web-Electron-CodeQl-badge]][Visual-Web-Electron-CodeQL-link]
 
-[CodeQl-badge]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/codeql-analysis.yml/badge.svg
-[CodeQL-link]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/codeql-analysis.yml
+[Visual-Web-Electron-CodeQl-badge]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/codeql-analysis.yml/badge.svg
+[Visual-Web-Electron-CodeQL-link]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/codeql-analysis.yml
 
 [![Electron-Ci][electron-ci-badge]][electron-ci-workflow] \
 [![Tools-Ci][tools-ci-badge]][tools-ci-link] \
@@ -196,10 +196,10 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 ## [Linux Distro Picker](https://github.com/Charlie-Sumorok/Linux-Distro-Picker)
 
-[![CodeQL][CodeQL-badge]][CodeQL-workflow]
+[![CodeQL][Linux-Distro-Picker-CodeQL-badge]][Linux-Distro-Picker-CodeQL-workflow]
 
-[CodeQL-badge]: https://github.com/Charlie-Sumorok/Linux-Distro-Picker/actions/workflows/codeql-analysis.yml/badge.svg
-[CodeQL-workflow]: https://github.com/Charlie-Sumorok/Linux-Distro-Picker/actions/workflows/codeql-analysis.yml
+[Linux-Distro-Picker-CodeQL-badge]: https://github.com/Charlie-Sumorok/Linux-Distro-Picker/actions/workflows/codeql-analysis.yml/badge.svg
+[Linux-Distro-Picker-CodeQL-workflow]: https://github.com/Charlie-Sumorok/Linux-Distro-Picker/actions/workflows/codeql-analysis.yml
 
 [![CI][linux-distro-picker-ci-badge]][linux-distro-picker-ci-workflow] \
 []()

@@ -157,6 +157,10 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 [cli-ci-workflow]: https://github.com/Charlie-Sumorok/pmm/actions/workflows/CLI-Ci.yml
 
 ## [Visual Web](https://github.com/Charlie-Sumorok/Visual-Web)
+[![CodeQL][CodeQl-badge]][CodeQl-link]
+
+[CodeQl-badge]: https://github.com/Charlie-Sumorok/Visual-Web/actions/workflows/codeql-analysis.yml/badge.svg
+[CodeQl-link]: https://github.com/Charlie-Sumorok/Visual-Web/actions/workflows/codeql-analysis.yml
 
 ### [Visual Web Electron](https://github.com/Charlie-Sumorok/Visual-Web-Electron)
 

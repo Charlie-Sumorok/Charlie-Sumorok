@@ -185,6 +185,11 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 ## [Linux Distro Picker](https://github.com/Charlie-Sumorok/Linux-Distro-Picker)
 
+[![CodeQL][CodeQL-badge]][CodeQL-workflow]
+
+[CodeQL-badge]: https://github.com/Charlie-Sumorok/Linux-Distro-Picker/actions/workflows/codeql-analysis.yml/badge.svg
+[CodeQL-workflow]: https://github.com/Charlie-Sumorok/Linux-Distro-Picker/actions/workflows/codeql-analysis.yml
+
 [![CI][linux-distro-picker-ci-badge]][linux-distro-picker-ci-workflow] \
 []()
 

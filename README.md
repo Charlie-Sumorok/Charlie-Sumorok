@@ -133,10 +133,15 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 [CodeQL-badge]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/codeql-analysis.yml/badge.svg
 [CodeQL-workflow]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/codeql-analysis.yml
 
-[![Send Update Notifications][notify-badge]][notify-link]
+[![Add Member][Add-Member-badge]][Add-Member-workflow]
 
-[notify-badge]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/notify-updates.yml/badge.svg
-[notify-link]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/notify-updates.yml
+[Add-Member-badge]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/add-member.yml/badge.svg
+[Add-Member-workflow]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/add-member.yml
+
+[![Send Update Notifications][Update-Notifications-badge]][Update-Notifications-workflow]
+
+[Update-Notifications-badge]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/notify-updates.yml/badge.svg
+[Update-Notifications-workflow]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/notify-updates.yml
 
 ### [Calcs](https://github.com/Charlie-Sumorok/Calcs)
 

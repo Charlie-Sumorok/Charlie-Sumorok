@@ -128,6 +128,11 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 ### [pop-under-deobfuscation](https://github.com/Charlie-Sumorok/pop-under-deobfuscation)
 
+[![CodeQL][CodeQL-badge]][CodeQL-workflow]
+
+[CodeQL-badge]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/codeql-analysis.yml/badge.svg
+[CodeQL-workflow]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/codeql-analysis.yml
+
 [![Send Update Notifications][notify-badge]][notify-link]
 
 [notify-badge]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/notify-updates.yml/badge.svg
@@ -162,6 +167,7 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 [cli-ci-workflow]: https://github.com/Charlie-Sumorok/pmm/actions/workflows/CLI-Ci.yml
 
 ## [Visual Web](https://github.com/Charlie-Sumorok/Visual-Web)
+
 [![CodeQL][CodeQl-badge]][CodeQl-link]
 
 [CodeQl-badge]: https://github.com/Charlie-Sumorok/Visual-Web/actions/workflows/codeql-analysis.yml/badge.svg

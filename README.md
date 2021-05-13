@@ -39,9 +39,10 @@ Here are some ideas to get you started:
 # Repo Info
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Linux-Distro-Picker&theme=onedark&show_icons=true)](https://github.com/Charlie-Sumorok/Linux-Distro-Picker) \
+[]()
 
 [![Repo Issues](https://img.shields.io/github/issues/Charlie-Sumorok/Linux-Distro-Picker)](https://github.com/Charlie-Sumorok/Linux-Distro-Picker/issues) \
-[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/Linux-Distro-Picker)](https://github.com/Charlie-Sumorok/Linux-Distro-Picker/issues-pr) \
+[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/Linux-Distro-Picker)](https://github.com/Charlie-Sumorok/Linux-Distro-Picker/pulls) \
 []()
 
 ## [Contributers](https://github.com/Charlie-Sumorok/Linux-Distro-Picker/graphs/contributors)
@@ -54,7 +55,7 @@ Here are some ideas to get you started:
 []()
 
 [![Repo Issues](https://img.shields.io/github/issues/Charlie-Sumorok/PMM)](https://github.com/Charlie-Sumorok/PMM/issues) \
-[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/PMM)](https://github.com/Charlie-Sumorok/PMM/issues-pr) \
+[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/PMM)](https://github.com/Charlie-Sumorok/PMM/pulls) \
 []()
 
 ## [Contributers](https://github.com/Charlie-Sumorok/PMM/graphs/contributors)
@@ -67,7 +68,7 @@ Here are some ideas to get you started:
 []()
 
 [![Repo Issues](https://img.shields.io/github/issues/Charlie-Sumorok/Visual-Web)](https://github.com/Charlie-Sumorok/Visual-Web/issues) \
-[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/Visual-Web)](https://github.com/Charlie-Sumorok/Visual-Web/issues-pr) \
+[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/Visual-Web)](https://github.com/Charlie-Sumorok/Visual-Web/pulls) \
 []()
 
 ## [Contributers](https://github.com/Charlie-Sumorok/Visual-Web/graphs/contributors)
@@ -80,7 +81,7 @@ Here are some ideas to get you started:
 []()
 
 [![Repo Issues](https://img.shields.io/github/issues/Charlie-Sumorok/Visual-Web-Electron)](https://github.com/Charlie-Sumorok/Visual-Web-Electron/issues) \
-[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/Visual-Web-Electron)](https://github.com/Charlie-Sumorok/Visual-Web-Electron/issues-pr) \
+[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/Visual-Web-Electron)](https://github.com/Charlie-Sumorok/Visual-Web-Electron/pulls) \
 []()
 
 ## [Contributers](https://github.com/Charlie-Sumorok/Visual-Web-Electron/graphs/contributors)
@@ -93,7 +94,7 @@ Here are some ideas to get you started:
 []()
 
 [![Repo Issues](https://img.shields.io/github/issues/Charlie-Sumorok/pop-under-deobfuscation)](https://github.com/Charlie-Sumorok/pop-under-deobfuscation/issues) \
-[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/pop-under-deobfuscation)](https://github.com/Charlie-Sumorok/pop-under-deobfuscation/issues-pr) \
+[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/pop-under-deobfuscation)](https://github.com/Charlie-Sumorok/pop-under-deobfuscation/pulls) \
 []()
 
 ## [Contributers](https://github.com/Charlie-Sumorok/pop-under-deobfuscation/graphs/contributors)
@@ -106,7 +107,7 @@ Here are some ideas to get you started:
 []()
 
 [![Repo Issues](https://img.shields.io/github/issues/Charlie-Sumorok/Calcs)](https://github.com/Charlie-Sumorok/Calcs/issues) \
-[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/Calcs)](https://github.com/Charlie-Sumorok/Calcs/issues-pr) \
+[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/Calcs)](https://github.com/Charlie-Sumorok/Calcs/pulls) \
 []()
 
 ## [Contributers](https://github.com/Charlie-Sumorok/Calcs/graphs/contributors)
@@ -119,7 +120,7 @@ Here are some ideas to get you started:
 []()
 
 [![Repo Issues](https://img.shields.io/github/issues/Charlie-Sumorok/react-desktop)](https://github.com/Charlie-Sumorok/react-desktop/issues) \
-[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/react-desktop)](https://github.com/Charlie-Sumorok/react-desktop/issues-pr) \
+[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/react-desktop)](https://github.com/Charlie-Sumorok/react-desktop/pulls) \
 []()
 
 ## [Contributers](https://github.com/Charlie-Sumorok/react-desktop/graphs/contributors)

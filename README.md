@@ -220,13 +220,13 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 [visual-web-electron-codeql-link]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/codeql-analysis.yml
 
 [![Electron-Ci][electron-ci-badge]][electron-ci-workflow] \
-[![Tools-Ci][tools-ci-badge]][tools-ci-link] \
+[![Styles-Ci][tools-ci-badge]][tools-ci-link] \
 []()
 
 [electron-ci-badge]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/Electron-Ci.yml/badge.svg
 [electron-ci-workflow]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/Electron-Ci.yml
-[tools-ci-badge]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/Tools-Ci.yml/badge.svg
-[tools-ci-link]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/Tools-Ci.yml
+[tools-ci-badge]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/Styles-Ci.yml/badge.svg
+[tools-ci-link]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/Styles-Ci.yml
 
 ## [Linux Distro Picker](https://github.com/Charlie-Sumorok/Linux-Distro-Picker)
 

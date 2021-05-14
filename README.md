@@ -243,3 +243,10 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 [react-desktop-codeql-badge]: https://github.com/Charlie-Sumorok/react-desktop/actions/workflows/codeql-analysis.yml/badge.svg
 [react-desktop-codeql-link]: https://github.com/Charlie-Sumorok/react-desktop/actions/workflows/codeql-analysis.yml
+
+## [vscode github actions badges](https://github.com/Charlie-Sumorok/vscode-github-actions-badges)
+
+[![CodeQL][vscode-github-actions-badges-codeql-badge]][vscode-github-actions-badges-codeql-link]
+
+[vscode-github-actions-badges-codeql-badge]: https://github.com/Charlie-Sumorok/vscode-github-actions-badges/actions/workflows/codeql-analysis.yml/badge.svg
+[vscode-github-actions-badges-codeql-link]: https://github.com/Charlie-Sumorok/vscode-github-actions-badges/actions/workflows/codeql-analysis.yml

@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on deobfuscating the [popunderjs.com](https://popunderjs.com) demo
+- 🔭 I’m currently working on [deobfuscating](https://github.com/Charlie-Sumorok/pop-under-deobfuscation) the [popunderjs.com](https://popunderjs.com) demo
 
 <!--
 - 🌱 I’m currently learning ...

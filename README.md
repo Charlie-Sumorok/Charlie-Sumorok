@@ -60,32 +60,6 @@ Here are some ideas to get you started:
 
 ---
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Visual-Web&theme=onedark&show_icons=true)](https://github.com/Charlie-Sumorok/Visual-Web) \
-[]()
-
-[![Repo Issues](https://img.shields.io/github/issues/Charlie-Sumorok/Visual-Web)](https://github.com/Charlie-Sumorok/Visual-Web/issues) \
-[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/Visual-Web)](https://github.com/Charlie-Sumorok/Visual-Web/pulls) \
-[]()
-
-## [Contributers](https://github.com/Charlie-Sumorok/Visual-Web/graphs/contributors)
-
-[![Contributers](https://contrib.rocks/image?repo=Charlie-Sumorok/Visual-Web)][contributers-site]
-
----
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Visual-Web-Electron&theme=onedark&show_icons=true)](https://github.com/Charlie-Sumorok/Visual-Web-Electron) \
-[]()
-
-[![Repo Issues](https://img.shields.io/github/issues/Charlie-Sumorok/Visual-Web-Electron)](https://github.com/Charlie-Sumorok/Visual-Web-Electron/issues) \
-[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/Visual-Web-Electron)](https://github.com/Charlie-Sumorok/Visual-Web-Electron/pulls) \
-[]()
-
-## [Contributers](https://github.com/Charlie-Sumorok/Visual-Web-Electron/graphs/contributors)
-
-[![Contributers](https://contrib.rocks/image?repo=Charlie-Sumorok/Visual-Web-Electron)][contributers-site]
-
----
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=pop-under-deobfuscation&theme=onedark&show_icons=true)](https://github.com/Charlie-Sumorok/pop-under-deobfuscation) \
 []()
 
@@ -205,26 +179,6 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 [app-ci-workflow]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/App-Ci.yml
 [cli-ci-badge]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/CLI-Ci.yml/badge.svg
 [cli-ci-workflow]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/CLI-Ci.yml
-
-## [Visual Web](https://github.com/Charlie-Sumorok/Visual-Web)
-
-[![CodeQL][visual-web-codeql-badge]][visual-web-codeql-link]
-
-[visual-web-codeql-badge]: https://github.com/Charlie-Sumorok/Visual-Web/actions/workflows/codeql-analysis.yml/badge.svg
-[visual-web-codeql-link]: https://github.com/Charlie-Sumorok/Visual-Web/actions/workflows/codeql-analysis.yml
-
-### [Visual Web Electron](https://github.com/Charlie-Sumorok/Visual-Web-Electron)
-
-[![CodeQL][visual-web-electron-codeql-badge]][visual-web-electron-codeql-link]
-
-[visual-web-electron-codeql-badge]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/codeql-analysis.yml/badge.svg
-[visual-web-electron-codeql-link]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/codeql-analysis.yml
-
-[![Electron-Ci][electron-ci-badge]][electron-ci-workflow] \
-[]()
-
-[electron-ci-badge]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/Electron-Ci.yml/badge.svg
-[electron-ci-workflow]: https://github.com/Charlie-Sumorok/Visual-Web-Electron/actions/workflows/Electron-Ci.yml
 
 ## [Linux Distro Picker](https://github.com/Charlie-Sumorok/Linux-Distro-Picker)
 

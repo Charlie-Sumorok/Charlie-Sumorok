@@ -73,19 +73,6 @@ Here are some ideas to get you started:
 
 ---
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=react-desktop&theme=onedark&show_icons=true)](https://github.com/Charlie-Sumorok/react-desktop) \
-[]()
-
-[![Repo Issues](https://img.shields.io/github/issues/Charlie-Sumorok/react-desktop)](https://github.com/Charlie-Sumorok/react-desktop/issues) \
-[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/react-desktop)](https://github.com/Charlie-Sumorok/react-desktop/pulls) \
-[]()
-
-## [Contributers](https://github.com/Charlie-Sumorok/react-desktop/graphs/contributors)
-
-[![Contributers](https://contrib.rocks/image?repo=Charlie-Sumorok/react-desktop)][contributers-site]
-
----
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=vscode-github-actions-badges&theme=onedark&show_icons=true)](https://github.com/Charlie-Sumorok/vscode-github-actions-badges) \
 []()
 
@@ -166,13 +153,6 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 [app-ci-workflow]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/App-Ci.yml
 [cli-ci-badge]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/CLI-Ci.yml/badge.svg
 [cli-ci-workflow]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/CLI-Ci.yml
-
-## [React Desktop](https://github.com/Charlie-Sumorok/react-desktop)
-
-[![CodeQL][react-desktop-codeql-badge]][react-desktop-codeql-link]
-
-[react-desktop-codeql-badge]: https://github.com/Charlie-Sumorok/react-desktop/actions/workflows/codeql-analysis.yml/badge.svg
-[react-desktop-codeql-link]: https://github.com/Charlie-Sumorok/react-desktop/actions/workflows/codeql-analysis.yml
 
 ## [vscode github actions badges](https://github.com/Charlie-Sumorok/vscode-github-actions-badges)
 

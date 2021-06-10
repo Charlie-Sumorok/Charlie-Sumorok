@@ -104,28 +104,6 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 > Badges for all of my repos
 
-<!-- ### [pop-under-deobfuscation](https://github.com/Charlie-Sumorok/pop-under-deobfuscation)
-
-[![CodeQL][pop-under-deobfuscation-codeql-badge]][pop-under-deobfuscation-codeql-workflow]
-
-[pop-under-deobfuscation-codeql-badge]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/codeql-analysis.yml/badge.svg
-[pop-under-deobfuscation-codeql-workflow]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/codeql-analysis.yml
-
-[![Add Member][add-member-badge]][add-member-workflow]
-
-[add-member-badge]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/add-member.yml/badge.svg
-[add-member-workflow]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/add-member.yml
-
-[![Check for Updates][check-updates-badge]][check-updates-workflow]
-
-[check-updates-badge]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/check-update.yml/badge.svg
-[check-updates-workflow]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/check-update.yml
-
-[![Send Update Notifications][update-notifications-badge]][update-notifications-workflow]
-
-[update-notifications-badge]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/notify-updates.yml/badge.svg
-[update-notifications-workflow]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/notify-updates.yml
--->
 ### [Calcs](https://github.com/Charlie-Sumorok/Calcs)
 
 [![CodeQL][calcs-codeql-badge]][calcs-codeql-link]

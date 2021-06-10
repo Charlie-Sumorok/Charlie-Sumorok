@@ -104,7 +104,7 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 > Badges for all of my repos
 
-### [pop-under-deobfuscation](https://github.com/Charlie-Sumorok/pop-under-deobfuscation)
+<!-- ### [pop-under-deobfuscation](https://github.com/Charlie-Sumorok/pop-under-deobfuscation)
 
 [![CodeQL][pop-under-deobfuscation-codeql-badge]][pop-under-deobfuscation-codeql-workflow]
 
@@ -125,7 +125,7 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 [update-notifications-badge]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/notify-updates.yml/badge.svg
 [update-notifications-workflow]: https://github.com/Charlie-Sumorok/pop-under-deobfuscation/actions/workflows/notify-updates.yml
-
+-->
 ### [Calcs](https://github.com/Charlie-Sumorok/Calcs)
 
 [![CodeQL][calcs-codeql-badge]][calcs-codeql-link]

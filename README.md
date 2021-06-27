@@ -91,7 +91,7 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 > Badges for all of my repos
 
-### [Calcs](https://github.com/Charlie-Sumorok/Calcs)
+## [Calcs](https://github.com/Charlie-Sumorok/Calcs)
 
 [![CodeQL][calcs-codeql-badge]][calcs-codeql-link]
 
@@ -103,7 +103,7 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 [person-to-number-badge]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/human_to_number.yml/badge.svg
 [person-to-number-link]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/human_to_number.yml
 
-### [PMM](https://github.com/Charlie-Sumorok/PMM)
+## [PMM](https://github.com/Charlie-Sumorok/PMM)
 
 [![CodeQL][pmm-codeql-badge]][pmm-codeql-link]
 
@@ -119,7 +119,7 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 [cli-ci-badge]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/CLI-Ci.yml/badge.svg
 [cli-ci-workflow]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/CLI-Ci.yml
 
-### [vscode github actions badges](https://github.com/Charlie-Sumorok/vscode-github-actions-badges)
+## [vscode github actions badges](https://github.com/Charlie-Sumorok/vscode-github-actions-badges)
 
 [![CodeQL][vscode-github-actions-badges-codeql-badge]][vscode-github-actions-badges-codeql-link]
 

@@ -119,7 +119,7 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 [cli-ci-badge]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/CLI-Ci.yml/badge.svg
 [cli-ci-workflow]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/CLI-Ci.yml
 
-## [vscode github actions badges](https://github.com/Charlie-Sumorok/vscode-github-actions-badges)
+### [vscode github actions badges](https://github.com/Charlie-Sumorok/vscode-github-actions-badges)
 
 [![CodeQL][vscode-github-actions-badges-codeql-badge]][vscode-github-actions-badges-codeql-link]
 

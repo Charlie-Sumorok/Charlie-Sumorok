@@ -47,19 +47,6 @@ Here are some ideas to get you started:
 
 ---
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=Calcs&theme=onedark&show_icons=true)](https://github.com/Charlie-Sumorok/Calcs) \
-[]()
-
-[![Repo Issues](https://img.shields.io/github/issues/Charlie-Sumorok/Calcs)](https://github.com/Charlie-Sumorok/Calcs/issues) \
-[![Repo Pull Requests](https://img.shields.io/github/issues-pr/Charlie-Sumorok/Calcs)](https://github.com/Charlie-Sumorok/Calcs/pulls) \
-[]()
-
-## [Contributers](https://github.com/Charlie-Sumorok/Calcs/graphs/contributors)
-
-[![Contributers](https://contrib.rocks/image?repo=Charlie-Sumorok/Calcs)](https://github.com/Charlie-Sumorok/Calcs/graphs/Contributors)
-
----
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Charlie-Sumorok&repo=vscode-github-actions-badges&theme=onedark&show_icons=true)](https://github.com/Charlie-Sumorok/vscode-github-actions-badges) \
 []()
 

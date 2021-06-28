@@ -78,18 +78,6 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 > Badges for all of my repos
 
-## [Calcs](https://github.com/Charlie-Sumorok/Calcs)
-
-[![CodeQL][calcs-codeql-badge]][calcs-codeql-link]
-
-[calcs-codeql-badge]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/codeql-analysis.yml/badge.svg
-[calcs-codeql-link]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/codeql-analysis.yml
-
-[![Maximum number a person could represent][person-to-number-badge]][person-to-number-link]
-
-[person-to-number-badge]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/human_to_number.yml/badge.svg
-[person-to-number-link]: https://github.com/Charlie-Sumorok/Calcs/actions/workflows/human_to_number.yml
-
 ## [PMM](https://github.com/Charlie-Sumorok/PMM)
 
 [![CodeQL][pmm-codeql-badge]][pmm-codeql-link]

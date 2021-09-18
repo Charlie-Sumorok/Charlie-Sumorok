@@ -99,3 +99,8 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 
 [vscode-github-actions-badges-codeql-badge]: https://github.com/Charlie-Sumorok/vscode-github-actions-badges/actions/workflows/codeql-analysis.yml/badge.svg
 [vscode-github-actions-badges-codeql-link]: https://github.com/Charlie-Sumorok/vscode-github-actions-badges/actions/workflows/codeql-analysis.yml
+
+[![Node.js CI][vscode-github-actions-badges-node-ci-badge]][vscode-github-actions-badges-node-ci-link]
+
+[vscode-github-actions-badges-node-ci-badge]: https://github.com/Charlie-Sumorok/vscode-github-actions-badges/actions/workflows/node.js.yml/badge.svg
+[vscode-github-actions-badges-node-ci-link]: https://github.com/Charlie-Sumorok/vscode-github-actions-badges/actions/workflows/node.js.yml

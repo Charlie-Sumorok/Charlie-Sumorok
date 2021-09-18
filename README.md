@@ -84,12 +84,12 @@ Made using [anuraghazra/github-readme-stats][github-readme-stats-repo]
 [pmm-codeql-badge]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/codeql-analysis.yml/badge.svg
 [pmm-codeql-link]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/codeql-analysis.yml
 
-[![App-CI][app-ci-badge]][app-ci-workflow] \
+[![Electron-App-CI][electron-app-ci-badge]][electron-app-ci-workflow] \
 [![CLI-CI][cli-ci-badge]][cli-ci-workflow] \
 []()
 
-[app-ci-badge]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/App-Ci.yml/badge.svg
-[app-ci-workflow]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/App-Ci.yml
+[electron-app-ci-badge]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/Electron-App-Ci.yml/badge.svg
+[electron-app-ci-workflow]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/Electron-App-Ci.yml
 [cli-ci-badge]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/CLI-Ci.yml/badge.svg
 [cli-ci-workflow]: https://github.com/Charlie-Sumorok/PMM/actions/workflows/CLI-Ci.yml
 
